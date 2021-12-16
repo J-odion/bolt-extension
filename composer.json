@@ -1,5 +1,5 @@
 {
-    "name": "soapbox/taxonomyeditor",
+    "name": "baureo",
     "description": "An extension to add a GUI to edit taxonomies.",
     "type": "bolt-extension",
     "keywords": [
